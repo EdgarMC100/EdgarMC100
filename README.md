@@ -2,7 +2,7 @@
 ### Hi there 👋
 ---
 ```C#
-  public class Profile : Person
+  public class Developer : Person
   {
     string Name = "Edgar"
     bool IsDad = true;
