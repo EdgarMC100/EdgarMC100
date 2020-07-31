@@ -1,17 +1,8 @@
 
 ### Hi I´m Edgar 👋
 ---
-```C#
-  public class Developer : Person
-  {
-    string Name = "Edgar"
-    bool IsDad = true;
-    String[] Tools = {"Javascript","Typescript","C#"};
-    String[] FrontEndFrameworks = {"React"}
-  }
-```
 ```javascript
-const edgar = {
+const developer = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
