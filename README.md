@@ -9,8 +9,9 @@ const developer = {
   isDad: true,
   languages: ['Javascript','C#'],
   learning: ['Node'],
-  goals: "Being a FullStack developer"
-  tools: [React, Node:{"Styled-Components"}, Jest, Docker],
+  goals: "Being a FullStack developer",
+  cloudPlatforms: ["Azure Cloud","Google Cloud","Firebase Cloud"]
+  tools: [React,Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
