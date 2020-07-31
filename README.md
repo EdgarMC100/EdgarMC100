@@ -6,7 +6,10 @@
 ```javascript
 const developer = {
   pronouns: "he" | "his",
-  Languages: [Javascript,C#],
+  isDad: true,
+  languages: ['Javascript','C#'],
+  learning: ['Node'],
+  goals: "Being a FullStack developer"
   tools: [React, Node:{"Styled-Components"}, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"]
 }
