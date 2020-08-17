@@ -10,7 +10,7 @@ const developer = {
   languages: ['Javascript','C#'],
   learning: ['Node'],
   goals: "Being a FullStack developer",
-  cloudPlatforms: ["Netlify, Heroku, Azure Cloud","Google Cloud","Firebase Cloud"]
+  cloudPlatforms: ["Netlify", "Amazon(Heroku) Cloud", "Azure Cloud","Google Cloud","Firebase Cloud"]
   tools: [React,Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"]
 }
