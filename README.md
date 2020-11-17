@@ -8,7 +8,7 @@ const developer = {
   pronouns: "he" | "his",
   isDad: true,
   languages: ['Javascript','C#'],
-  learning: ['Node'],
+  learning: ['Svelte'],
   goals: "Being a FullStack developer",
   cloudPlatforms: ["Netlify", "Amazon(Heroku) Cloud", "Azure Cloud","Google Cloud","Firebase Cloud"]
   tools: [React,Jest, Docker],
