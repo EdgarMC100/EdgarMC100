@@ -1,5 +1,6 @@
 
 ### Hi I´m Edgar 👋
+[LinkedIn](https://www.linkedin.com/in/edgarmc100/)
 ---
 <img width=256 align="right" src="https://user-images.githubusercontent.com/15788622/89062946-f2938f80-d32c-11ea-894b-a0e596325c8b.png" />
 
